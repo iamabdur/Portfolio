@@ -45,7 +45,7 @@ $("#contact-form").submit(function(event) {
 
                 emailjs.sendForm('service_ef8mgk1', 'template_x8ipgcb', '#contact-form')
                     .then(function(response) {
-                        
+
                         console.log('SUCCESS!', response.status, response.text);
                         document.getElementById("contact-form").reset(); // Reset the form
                         alert("Form Submitted Successfully");
@@ -156,24 +156,10 @@ fetchData("projects").then(data => {
     showProjects(data);
 });
 
-// <!-- tilt js effect starts -->
 VanillaTilt.init(document.querySelectorAll(".tilt"), {
     max: 15,
 });
-// <!-- tilt js effect ends -->
 
-
-// pre loader start
-// function loader() {
-//     document.querySelector('.loader-container').classList.add('fade-out');
-// }
-// function fadeOut() {
-//     setInterval(loader, 500);
-// }
-// window.onload = fadeOut;
-// pre loader end
-
-// disable developer mode
 document.onkeydown = function (e) {
     if (e.keyCode == 123) {
         return false;
