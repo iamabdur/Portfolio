@@ -1,4 +1,13 @@
 [
+    {
+    "name": "Expense-Tracker",
+    "desc": "The project is to Develope for tracking the income and expense and show with the help of line chart",
+    "image": "Expense",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/iamabdur/expense-tracker_fullstack.git"
+    }
+  },
   {
     "name": "Personal-Portfolio",
     "desc": "This project is basically in HTML,CSS,Javascript,JQuery to showcase my skills and project and my life Journy",
