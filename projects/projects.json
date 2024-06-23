@@ -127,7 +127,7 @@
    {
     "name": "Interest",
     "desc": "This project is basically in HTML,CSS to Calculate the Interest.",
-    "image": "InterestCalc",
+    "image": "interestCalc",
     "category": "basicweb",
     "links": {
       "view": "https://iamabdur.github.io/interestcal/",
