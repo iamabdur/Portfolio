@@ -1,5 +1,14 @@
 [
-
+  {
+    "name": "Personal-Portfolio",
+    "desc": "This project is basically in HTML,CSS,Javascript,JQuery to showcase my skills and project and my life Journy",
+    "image": "Portfoli",
+    "category": "mern",
+    "links": {
+      "view": "https://portfolio-five-nu-38.vercel.app/",
+      "code": "https://github.com/iamabdur/Portfolio.git"
+    }
+  },
   {
     "name": "Checker",
     "desc": "Its contain the basic HTML,CSS also it's a static page website.",
@@ -80,7 +89,7 @@
   {
     "name": "Electronic Shop",
     "desc": "This project is basically in C programming to  buy the electronic item using online GDB we can get the output.",
-    "image": "shopping",
+    "image": "Shopping",
     "category": "basicweb",
     "links": {
       "view": "",
