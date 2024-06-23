@@ -1,4 +1,13 @@
 [
+  {
+    "name": "AI Trainer",
+    "desc": "This project is based on OpenCV to detect the object angle then increment the count variable based on the push up position.",
+    "image": "AI",
+    "category": "lamp",
+    "links": { 
+      "code": "https://github.com/iamabdur/Push-ups.git"
+    }
+  },
     {
     "name": "Expense-Tracker",
     "desc": "The project is to Develope for tracking the income and expense and show with the help of line chart",
